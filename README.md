@@ -239,6 +239,4 @@ AI分析服务通过智能路由调度器进行负载均衡、故障转移和成
 
 ---
 
-© 2025 酒店业BI报告平台 | 版本 v1.0.0 
-
-联系方式: piaozhitian@gmail.com 
+© 2025 酒店业BI报告平台 (piaozhitian@gmail.com) | 版本 v1.0.0 
