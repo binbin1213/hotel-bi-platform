@@ -85,3 +85,19 @@ test_deepseek*.py
 *.bak
 *.swp
 *~.nib 
+
+# 项目文档（仅在本地保存）
+*集成问题说明.md
+*开发指南.md
+*搭建说明文档.md
+*报告.md
+*优化方案.md
+*技术框架.md
+*进度表.md
+Hotel\ BI\ Platform.md
+
+# 重复的文件
+src/
+Hotel\ BI/CONTRIBUTING.md
+Hotel\ BI/LICENSE
+Hotel\ BI/README.md 
