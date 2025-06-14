@@ -104,4 +104,9 @@ Hotel\ BI/README.md
 
 # 中文命名的迁移文件
 migrations/versions/*添加*
-migrations/versions/*字段* 
+migrations/versions/*字段*
+
+# 敏感文件
+.env
+*.env
+.env.* 
