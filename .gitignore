@@ -100,4 +100,8 @@ Hotel\ BI\ Platform.md
 src/
 Hotel\ BI/CONTRIBUTING.md
 Hotel\ BI/LICENSE
-Hotel\ BI/README.md 
+Hotel\ BI/README.md
+
+# 中文命名的迁移文件
+migrations/versions/*添加*
+migrations/versions/*字段* 
