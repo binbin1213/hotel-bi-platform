@@ -1,0 +1,87 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+hotel_bi_env/
+
+# Python testing
+.coverage
+htmlcov/
+.pytest_cache/
+.tox/
+nosetests.xml
+coverage.xml
+
+# Database
+*.db
+*.sqlite3
+*.sqlite
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+celery_log.txt
+backend_log.txt
+
+# Node.js / Vue.js
+node_modules/
+.npm
+.eslintcache
+.node_repl_history
+.yarn-integrity
+
+# Frontend build
+frontend/dist/
+frontend/.env.local
+frontend/.env.*.local
+
+# Editor directories and files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.DS_Store
+
+# Project specific
+uploads/*
+!uploads/.gitkeep
+test_data.csv
+test_deepseek*.py
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~.nib 
